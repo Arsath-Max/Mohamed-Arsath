@@ -1,0 +1,6 @@
+{
+  "name": "Wayfare — Group & Shared Travel",
+  "description": "On-demand group mobility platform for multi-stop carpooling, shared airport shuttles, and automated fair fare splitting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
